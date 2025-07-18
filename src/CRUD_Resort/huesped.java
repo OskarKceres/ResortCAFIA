@@ -179,7 +179,7 @@ public class huesped extends javax.swing.JFrame {
         getContentPane().add(jScrollPane1, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 450, 1270, 200));
 
         jLabel13.setFont(new java.awt.Font("Arial Rounded MT Bold", 1, 36)); // NOI18N
-        jLabel13.setForeground(new java.awt.Color(153, 102, 0));
+        jLabel13.setForeground(new java.awt.Color(255, 0, 0));
         jLabel13.setText("Registro de Huespedes");
         getContentPane().add(jLabel13, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 10, -1, -1));
 
